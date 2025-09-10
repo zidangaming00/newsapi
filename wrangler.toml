@@ -1,5 +1,5 @@
-name = "datasearch"
-main = "data.js"
+name = "newsapi"
+main = "datat.js"
 
 compatibility_date = "2025-02-16"
 
